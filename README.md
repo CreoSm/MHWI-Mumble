@@ -1,6 +1,6 @@
 # What is this?
 
-MHWI-Mumble is a plugin for Monster Hunter Wilds that enables positional audio, so now you can hunt with friends but with the added immersion of spatial audio!
+MHWI-Mumble is a plugin for Monster Hunter Wilds that enables positional voice chat using Mumble, so now you can hunt with friends but with the added immersion of spatial audio!
 
 # Requirements
 [REFramework](https://github.com/praydog/REFramework)<br>
