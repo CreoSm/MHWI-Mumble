@@ -309,7 +309,7 @@ extern "C" __declspec(dllexport) bool reframework_plugin_initialize(const REFram
 
     auto vm_context = api->get_vm_context();
 
-    AllocConsole();
+    //AllocConsole(); // Used for debugging stuff initially.
     FILE* pCout;
     freopen_s(&pCout, "conout$", "w", stdout);
     printf("MHWI Spatial Mumble Plugin Loaded!!!\n");
