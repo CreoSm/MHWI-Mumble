@@ -12,7 +12,7 @@ A friend tech savy enough to host a mumble server, or a public server!
 
 # How to set up
 1. Install REFramework on your monster hunter wilds installation.
-2. Download the latest dll in the releases tab, or compile it from source.
+2. Download the latest dll [from here](https://github.com/CreoSm/MHWI-Mumble/releases), or compile it from source.
 3. Drop the dll into \Steam\steamapps\common\MonsterHunterWilds\reframework\plugins\
 4. In mumble's settings, go to <strong>Positional Audio</strong> and enable it along with the headphones setting.
 5. Set up the minimum and maximum distance in the <strong>Positional Audio</strong> as well as the bloom.<br>
