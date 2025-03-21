@@ -11,6 +11,8 @@ A friend tech savy enough to host a mumble server, or a public server!
 (Everyone who intends to speak positionally requires this mod.)
 
 # How to set up
+[Youtube Tutorial](https://www.youtube.com/watch?v=6tfALVZSEYg)
+
 1. Install REFramework on your monster hunter wilds installation.
 2. Download the latest dll [from here](https://github.com/CreoSm/MHWI-Mumble/releases), or compile it from source.
 3. Drop the dll into \Steam\steamapps\common\MonsterHunterWilds\reframework\plugins\
