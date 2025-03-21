@@ -35,3 +35,8 @@ Bloom: 25%<br><br>
 <strong>MAKE SURE YOU HIT APPLY!!!</strong>
 
 With all that done, you will be able to hear your friends from where they are positioned on the map, this works regardless of if they are in the same link party and environment link.
+
+# Special Thanks
+Praydog for creating REFramework<br>
+The Mumble Team for developing the amazing voice chat software<br>
+VividBrando for helping me test the mod<br>
